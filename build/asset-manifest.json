@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a96f5d77.chunk.css",
+    "main.js": "/static/js/main.c43fa867.chunk.js",
+    "main.js.map": "/static/js/main.c43fa867.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95e55c42.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95e55c42.js.map",
+    "static/js/2.9c71d7c9.chunk.js": "/static/js/2.9c71d7c9.chunk.js",
+    "static/js/2.9c71d7c9.chunk.js.map": "/static/js/2.9c71d7c9.chunk.js.map",
+    "static/js/3.57b6f327.chunk.js": "/static/js/3.57b6f327.chunk.js",
+    "static/js/3.57b6f327.chunk.js.map": "/static/js/3.57b6f327.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a96f5d77.chunk.css.map": "/static/css/main.a96f5d77.chunk.css.map",
+    "static/js/2.9c71d7c9.chunk.js.LICENSE.txt": "/static/js/2.9c71d7c9.chunk.js.LICENSE.txt",
+    "static/media/boat.276ce1cb.jpg": "/static/media/boat.276ce1cb.jpg",
+    "static/media/homeBW.681d7abf.jpg": "/static/media/homeBW.681d7abf.jpg",
+    "static/media/milky.422af66b.jpg": "/static/media/milky.422af66b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e55c42.js",
+    "static/js/2.9c71d7c9.chunk.js",
+    "static/css/main.a96f5d77.chunk.css",
+    "static/js/main.c43fa867.chunk.js"
+  ]
+}
